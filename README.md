@@ -55,7 +55,7 @@ All development is now taking place through GitHub. The collaborative developmen
 
 Thanks and enjoy!
 
-Gideon & Scott
+Tanay Ramteke
 
 
 [Q2A]: http://www.question2answer.org/
